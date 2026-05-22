@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+dataset/
+tomatoleaf.zip
+real_test_images/

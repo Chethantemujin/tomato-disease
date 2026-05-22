@@ -1,0 +1,17 @@
+{
+  "class_names": [
+    "Early Blight",
+    "Late Blight",
+    "Healthy"
+  ],
+  "raw_class_names": [
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___healthy"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "confidence_threshold": 0.60
+}
